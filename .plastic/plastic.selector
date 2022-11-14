@@ -1,0 +1,4 @@
+repository "ParkourTest@yxh@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
